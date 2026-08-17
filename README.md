@@ -67,8 +67,8 @@
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/SEU-USUARIO/NOME-DO-PROJETO-3">
-        <b>🤖 [Nome do 3º projeto em destaque]</b>
+      <a href="https://github.com/https://github.com/arturwlodarczak1912/pandas_airbnb">
+        <b>🤖 pandas_airbnb </b>
       </a>
       <br/>
       [Uma frase curta explicando o problema que resolve e as tecnologias usadas.]
