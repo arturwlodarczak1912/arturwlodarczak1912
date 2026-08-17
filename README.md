@@ -56,11 +56,11 @@
       <img src="https://img.shields.io/badge/Data-SQLite-blue?style=flat-square" />
     </td>
     <td width="50%">
-      <a href="https://github.com/SEU-USUARIO/NOME-DO-PROJETO-2">
+      <a href="https://github.com/cnn-image-classification-jax">
         <b>📊 cnn-image-classification-jax</b>
       </a>
       <br/>
-      [Uma frase curta explicando o problema que resolve e as tecnologias usadas.]
+      Training a convolutional neural network (CNN) to classify ship images into 5 categories
       <br/><br/>
       <img src="https://img.shields.io/badge/Python-blue?style=flat-square" />
     </td>
