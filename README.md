@@ -4,7 +4,7 @@
 <h3 align="center">CNC Machinist → Python Developer & Data Analyst | Industry 4.0 focus</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/[SEU-LINKEDIN](https://www.linkedin.com/in/artur-wlodarczak-083a3214a/)/">
+  <a href="https://www.linkedin.com/in/artur-wlodarczak-083a3214a/)/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:arturwlodarczak1912@gmail.com">
