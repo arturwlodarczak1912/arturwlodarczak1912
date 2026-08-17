@@ -57,7 +57,7 @@
     </td>
     <td width="50%">
       <a href="https://github.com/arturwlodarczak1912/cnn-image-classification-jax">
-        <b>📊 cnn-image-classification-jax</b>
+        <b>📊 Cnn image classification-jax</b>
       </a>
       <br/>
       Training a convolutional neural network (CNN) to classify ship images into 5 categories
