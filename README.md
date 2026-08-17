@@ -42,7 +42,7 @@
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/SEU-USUARIO/cnc-production-tracker">
+      <a href="https://github.com/arturwlodarczak1912/Cnc-production-tracker">
         <b>🏭 CNC Production Tracker</b>
       </a>
       <br/>
