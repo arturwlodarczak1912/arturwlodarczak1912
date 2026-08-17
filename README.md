@@ -57,7 +57,7 @@
     </td>
     <td width="50%">
       <a href="https://github.com/SEU-USUARIO/NOME-DO-PROJETO-2">
-        <b>📊 [Nome do 2º projeto em destaque]</b>
+        <b>📊 cnn-image-classification-jax</b>
       </a>
       <br/>
       [Uma frase curta explicando o problema que resolve e as tecnologias usadas.]
