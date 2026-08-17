@@ -56,7 +56,7 @@
       <img src="https://img.shields.io/badge/Data-SQLite-blue?style=flat-square" />
     </td>
     <td width="50%">
-      <a href="https://github.com/cnn-image-classification-jax">
+      <a href="https://github.com/arturwlodarczak1912/cnn-image-classification-jax">
         <b>📊 cnn-image-classification-jax</b>
       </a>
       <br/>
