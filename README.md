@@ -67,8 +67,8 @@
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/https://github.com/arturwlodarczak1912/pandas_airbnb">
-        <b>🤖 pandas_airbnb </b>
+      <a href="https://github.com/arturwlodarczak1912/pandas_airbnb">
+        <b>🤖 Pandas_airbnb </b>
       </a>
       <br/>
       [Uma frase curta explicando o problema que resolve e as tecnologias usadas.]
